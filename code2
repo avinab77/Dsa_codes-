@@ -8,6 +8,7 @@
 #include <string>
 using namespace std;
 
+int main(){
 class Solution {
 public:
     int minimumDeletions(string word, int k) {
@@ -37,4 +38,5 @@ public:
 
        
     }
-};
+}
+}
